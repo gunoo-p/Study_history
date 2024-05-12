@@ -23,6 +23,7 @@
         </activity>
         <activity android:name=".MainActivity"/>
         <activity android:name=".CalculatorActivity"/>
+        <activity android:name=".TDLActivity"/>
     </application>
 
 </manifest>

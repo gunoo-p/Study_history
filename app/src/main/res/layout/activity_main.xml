@@ -14,13 +14,15 @@
             android:id="@+id/calculator_btn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="계산기" />
+            android:text="계산기"
+            android:onClick="btnclick"/>
 
         <android.widget.Button
             android:id="@+id/TDL_btn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="To - Do - List" />
+            android:text="To - Do - List"
+            android:onClick="btnclick"/>
     </LinearLayout>
 
 </LinearLayout>
